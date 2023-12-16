@@ -1,0 +1,3 @@
+#Setup Instructions
+Install all the libraries using the pip install command.
+Add OpenAI API key in the config.py file to integrate OpenAI.
