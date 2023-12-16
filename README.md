@@ -1,2 +1,7 @@
 # Desktop-Assistant
-A voice-controlled application enabling seamless interaction through vocal commands and responses. Features include automation for note-taking, customizable web information retrieval, app and website launching, and an AI-powered chatbot. Integrated with OpenAI, it processes user queries and saves the output on the machine.
+The application leverages speech recognition technology for interpretation of user voice commands, offering a hands-free desktop assistant experience. 
+Powered by the pyttsx3 library, it ensures responsive interactions through vocal output. 
+Automation features, driven by the pyautogui library, provide precise control of the user interface. 
+The webbrowser library enhances capabilities for seamless retrieval of user-defined web information. 
+The desktop assistant has an intelligent chatbot that responds to the user, making the interaction personalized. 
+Integration with OpenAI empowers the application with artificial intelligence, enabling intelligent and dynamic responses to a diverse range of user queries.
